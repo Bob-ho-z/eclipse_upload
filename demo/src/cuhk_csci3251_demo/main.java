@@ -18,6 +18,7 @@ public class main {
      number= myObj.nextInt();
      System.out.println(number);
     }
+	System.out.println("End");	
 	}
 
 }
