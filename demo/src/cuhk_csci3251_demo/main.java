@@ -18,7 +18,8 @@ public class main {
      number= myObj.nextInt();
      System.out.println(number);
     }
-	System.out.println("End");	
+	System.out.println("End");
+	System.out.println("That fine");	
 	}
 
 }
